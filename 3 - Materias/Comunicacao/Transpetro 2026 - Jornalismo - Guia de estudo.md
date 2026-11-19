@@ -71,6 +71,7 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 - [[3 - Materias/Comunicacao/71 - comunicacao publica governamental e politico partidaria|Comunicação pública, governamental e político-partidária]]
 - [[3 - Materias/Comunicacao/11 - etica em comunicacao|Ética em Comunicação]]
 - [[3 - Materias/Comunicacao/06 - comunicacao digital|Comunicação digital]]
+- [[3 - Materias/Comunicacao/138 - simulado LAI transparencia e comunicacao publica|Simulado aplicado — LAI, transparência e comunicação pública (15 questões)]]
 
 **Fonte normativa primária:** [Lei nº 12.527/2011 — LAI](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) e [Lei nº 13.709/2018 — LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm). Leia a legislação atualizada, não apenas o resumo.
 
