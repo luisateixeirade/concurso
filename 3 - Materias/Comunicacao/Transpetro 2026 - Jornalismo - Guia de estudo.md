@@ -16,6 +16,8 @@ Guia de estudo organizado pelo **Anexo IV do Edital nº 04 — TRANSPETRO/PSP/TE
 
 **Fonte oficial:** [edital consolidado e retificações — Transpetro](https://transpetro.com.br/lumis/portal/file/fileDownload.jsp?fileId=4028908C9E22CAA601A1D66CCFC97F95). O PDF consultado apresenta retificações até 10 de novembro de 2026. Conferir comunicados posteriores na página oficial da [Fundação Cesgranrio](https://transpetro.cesgranrio.org.br/).
 
+**Prática adicional:** [[3 - Materias/Comunicacao/136 - simulado teorias da comunicacao aplicadas e comparadas|Simulado inédito de Teorias da Comunicação — 16 questões aplicadas]].
+
 ## Estrutura da prova
 
 - **70 questões objetivas**, todas com cinco alternativas (A–E) e uma única resposta correta.
