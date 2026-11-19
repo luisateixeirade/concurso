@@ -888,6 +888,22 @@
           ]
         }
       ]
+    },
+    {
+      "concursoId": "transpetro-2026-jornalismo",
+      "subjects": [
+        {
+          "subjectId": "comunicacao-jornalismo",
+          "categoria": "Comunicacao Social — Jornalismo",
+          "ordem": 1,
+          "rotulo": "Comunicação Social — Jornalismo",
+          "itemEdital": "Anexo IV — Ênfase 11: Jornalismo",
+          "hubArticleId": "art-8d2f5a6c9b1e4730",
+          "articleIds": [
+            "art-4a7e9c2d5b603f18"
+          ]
+        }
+      ]
     }
   ]
 }
