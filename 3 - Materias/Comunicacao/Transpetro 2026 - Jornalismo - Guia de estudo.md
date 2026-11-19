@@ -139,6 +139,7 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 ### Simulado integrado de crise e cobertura socioambiental
 
 - [[3 - Materias/Comunicacao/135 - simulado integrado jornalismo energia crise e comunicacao publica|Simulado integrado: jornalismo, energia, crise e comunicação pública (18 questões)]] — pratique verificação de imagens, fontes, comunicação de crise, contraditório, LGPD, infografia, greenwashing e correção.
+- [[3 - Materias/Comunicacao/137 - simulado etica responsabilidade e direitos jornalisticos|Simulado aplicado — ética, responsabilidade e direitos jornalísticos (15 questões)]] — treine sigilo da fonte, independência, conflito de interesses, presunção de inocência, correção, contraditório e privacidade.
 
 ## Reta final sugerida (19 a 28 de novembro)
 
