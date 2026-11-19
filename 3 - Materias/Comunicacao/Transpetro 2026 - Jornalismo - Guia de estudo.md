@@ -10,7 +10,7 @@ updated: 2026-11-19
 
 # Transpetro 2026 — Comunicação Social: Jornalismo
 
-Guia de estudo organizado pelo **Anexo IV do Edital nº 04 — TRANSPETRO/PSP/TERRA/NÍVEL SUPERIOR — 2026.4**, com links para notas teóricas já existentes no repositório. A prova está prevista para **29 de novembro de 2026**.
+Guia de estudo organizado pelo **Anexo IV do Edital nº 04 — TRANSPETRO/PSP/TERRA/NÍVEL SUPERIOR — 2026.4**, com links para notas teóricas já existentes no repositório. A prova está prevista para **6 de dezembro de 2026**.
 
 > **Escopo:** este guia usa o edital de nível superior 2026.4 e suas retificações, não o programa de Jornalismo do concurso Transpetro de 2023. Não confundir os editais de Jornalismo e Relações Públicas.
 

@@ -11,7 +11,7 @@ updated: 2026-11-19
 **Edital:** nº 04 — TRANSPETRO/PSP/TERRA/NÍVEL SUPERIOR — 2026.4  
 **Banca:** Fundação Cesgranrio  
 **Cargo:** Profissional Transpetro de Nível Superior — Júnior  
-**Prova objetiva:** 29/11/2026 (data divulgada no cronograma do processo; confira cartão de confirmação e comunicados oficiais).
+**Prova objetiva:** 06/12/2026 (data divulgada no cronograma do processo; confira cartão de confirmação e comunicados oficiais).
 
 ## Documentos
 
