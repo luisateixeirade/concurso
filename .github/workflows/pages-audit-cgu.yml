@@ -1,4 +1,4 @@
-name: Auditar Pages CGU apos publicacao
+name: Auditar GitHub Pages apos publicacao
 
 on:
   # Executa a conferencia estrita depois que o workflow de Pages termina.
@@ -33,10 +33,10 @@ jobs:
           node-version: 20
       - name: Montar site do SHA auditado
         run: node scripts/build-site.js
-      - name: Confrontar Pages ao vivo com build, incluindo cinco artigos CGU
+      - name: Confrontar Pages ao vivo com build, incluindo artigos auditados
         id: live
         continue-on-error: ${{ github.event_name == 'pull_request' }}
-        run: node scripts/verify-live-pages.js "https://leorruas.github.io/concursos/"
+        run: node scripts/verify-live-pages.js "https://luisateixeirade.github.io/concurso/"
       - name: Identificar execucoes de deploy Pages no GitHub Actions
         if: ${{ steps.live.outcome == 'success' }}
         env:
