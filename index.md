@@ -78,6 +78,10 @@ Catálogo global de conhecimento e planejamento do vault de concursos.
 ### Transpetro 2026 — Comunicação Social: Jornalismo
 - [[3 - Materias/Comunicacao/Transpetro 2026 - Jornalismo - Guia de estudo|Guia de estudo e mapa do edital]]
 - [[3 - Materias/Comunicacao/Transpetro 2026 - Sustentabilidade e responsabilidade social corporativa|Sustentabilidade e Responsabilidade Social Corporativa]]
+- - [[3 - Materias/Comunicacao/125 - pauta jornalistica planejamento recorte e apuracao inicial|Pauta: planejamento, recorte e apuração inicial]]
+- - [[3 - Materias/Comunicacao/126 - apuracao jornalistica verificacao documentos e triangulacao|Apuração: verificação, documentos e triangulação]]
+- - [[3 - Materias/Comunicacao/127 - fontes jornalisticas classificacao credibilidade sigilo e diversidade|Fontes: tipos, credibilidade, sigilo e pluralidade]]
+- - [[3 - Materias/Comunicacao/128 - reportagem jornalistica estrutura narrativa dados e contexto|Reportagem: estrutura, narrativa, dados e contexto]]
 
 
 ### CGU 2026: matérias numeradas

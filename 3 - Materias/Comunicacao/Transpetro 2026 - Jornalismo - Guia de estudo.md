@@ -93,6 +93,10 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 **Programa:** produção da notícia; pauta; fontes; apuração e pesquisa; entrevista e reportagem; verificação, checagem e triangulação; linguagem, estrutura, lide, sublide, título, subtítulo, antetítulo e intertítulo; noticiabilidade e valores-notícia; jornalismo multimídia; imparcialidade, opinião e informação; sentido social da notícia; fake news; legislação, ética, direitos e deveres; Código de Ética dos Jornalistas Brasileiros.
 
 **Rota:**
+- [[3 - Materias/Comunicacao/125 - pauta jornalistica planejamento recorte e apuracao inicial|Pauta: planejamento, recorte e apuração inicial]]
+- [[3 - Materias/Comunicacao/126 - apuracao jornalistica verificacao documentos e triangulacao|Apuração: verificação, documentos e triangulação]]
+- [[3 - Materias/Comunicacao/127 - fontes jornalisticas classificacao credibilidade sigilo e diversidade|Fontes: tipos, credibilidade, sigilo e pluralidade]]
+- [[3 - Materias/Comunicacao/128 - reportagem jornalistica estrutura narrativa dados e contexto|Reportagem: estrutura, narrativa, dados e contexto]]
 - [[3 - Materias/Comunicacao/04 - criterios de noticiabilidade|Critérios de noticiabilidade]]
 - [[3 - Materias/Comunicacao/05 - lead piramide invertida e storytelling|Lide e pirâmide invertida]]
 - [[3 - Materias/Comunicacao/13 - generos jornalisticos|Gêneros jornalísticos]]
