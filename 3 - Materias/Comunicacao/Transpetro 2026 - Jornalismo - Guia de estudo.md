@@ -134,6 +134,10 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 
 **Nota nova e aprofundada:** [[3 - Materias/Comunicacao/Transpetro 2026 - Sustentabilidade e responsabilidade social corporativa|Sustentabilidade e Responsabilidade Social Corporativa — guia de prova]]. Para a prática jornalística, leia [[3 - Materias/Comunicacao/133 - jornalismo socioambiental complexidade transversalidade e cobertura|Jornalismo socioambiental: complexidade, transversalidade e cobertura]].
 
+### Simulado integrado de crise e cobertura socioambiental
+
+- [[3 - Materias/Comunicacao/135 - simulado integrado jornalismo energia crise e comunicacao publica|Simulado integrado: jornalismo, energia, crise e comunicação pública (18 questões)]] — pratique verificação de imagens, fontes, comunicação de crise, contraditório, LGPD, infografia, greenwashing e correção.
+
 ## Reta final sugerida (19 a 28 de novembro)
 
 | Data | Bloco | Entrega de estudo |
