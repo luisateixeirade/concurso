@@ -83,6 +83,11 @@ Catálogo global de conhecimento e planejamento do vault de concursos.
 - - [[3 - Materias/Comunicacao/127 - fontes jornalisticas classificacao credibilidade sigilo e diversidade|Fontes: tipos, credibilidade, sigilo e pluralidade]]
 - - [[3 - Materias/Comunicacao/128 - reportagem jornalistica estrutura narrativa dados e contexto|Reportagem: estrutura, narrativa, dados e contexto]]
 - - [[3 - Materias/Comunicacao/129 - simulado inedito pauta apuracao fontes e reportagem|Simulado inédito: pauta, apuração, fontes e reportagem (15 questões)]]
+- - [[3 - Materias/Comunicacao/130 - linguagem jornalistica titulos subtitulos e hierarquia editorial|Linguagem jornalística: títulos, subtítulos e hierarquia editorial]]
+- - [[3 - Materias/Comunicacao/131 - agencias de noticias distribuicao e modelos de circulacao|Agências de notícias: distribuição, produção e circulação]]
+- - [[3 - Materias/Comunicacao/132 - arquitetura da informacao usabilidade e infografia jornalistica|Arquitetura da informação, usabilidade e infografia jornalística]]
+- - [[3 - Materias/Comunicacao/133 - jornalismo socioambiental complexidade transversalidade e cobertura|Jornalismo socioambiental: complexidade, transversalidade e cobertura]]
+- - [[3 - Materias/Comunicacao/134 - simulado arquitetura agencias titulos e socioambiental|Simulado inédito: edição, agências, digital e socioambiental (12 questões)]]
 
 
 ### CGU 2026: matérias numeradas

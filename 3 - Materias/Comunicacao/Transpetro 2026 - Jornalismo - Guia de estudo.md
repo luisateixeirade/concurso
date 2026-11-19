@@ -98,6 +98,9 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 - [[3 - Materias/Comunicacao/127 - fontes jornalisticas classificacao credibilidade sigilo e diversidade|Fontes: tipos, credibilidade, sigilo e pluralidade]]
 - [[3 - Materias/Comunicacao/128 - reportagem jornalistica estrutura narrativa dados e contexto|Reportagem: estrutura, narrativa, dados e contexto]]
 - [[3 - Materias/Comunicacao/129 - simulado inedito pauta apuracao fontes e reportagem|Simulado inédito: pauta, apuração, fontes e reportagem (15 questões)]]
+- [[3 - Materias/Comunicacao/130 - linguagem jornalistica titulos subtitulos e hierarquia editorial|Linguagem jornalística: título, subtítulo, lide, intertítulos e edição]]
+- [[3 - Materias/Comunicacao/133 - jornalismo socioambiental complexidade transversalidade e cobertura|Jornalismo socioambiental: complexidade e transversalidade]]
+- [[3 - Materias/Comunicacao/134 - simulado arquitetura agencias titulos e socioambiental|Simulado: edição, agências, digital e socioambiental (12 questões)]]
 - [[3 - Materias/Comunicacao/04 - criterios de noticiabilidade|Critérios de noticiabilidade]]
 - [[3 - Materias/Comunicacao/05 - lead piramide invertida e storytelling|Lide e pirâmide invertida]]
 - [[3 - Materias/Comunicacao/13 - generos jornalisticos|Gêneros jornalísticos]]
@@ -120,14 +123,16 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 - [[3 - Materias/Comunicacao/114 - producao digital responsividade acessibilidade e formatos|Produção digital]]
 - [[3 - Materias/Comunicacao/115 - producao para radio televisao e redes sociais|Produção para rádio, TV e redes]]
 - [[3 - Materias/Comunicacao/119 - distribuicao e avaliacao de publicacoes|Distribuição e avaliação de publicações]]
+- [[3 - Materias/Comunicacao/131 - agencias de noticias distribuicao e modelos de circulacao|Agências de notícias: distribuição e circulação]]
+- [[3 - Materias/Comunicacao/132 - arquitetura da informacao usabilidade e infografia jornalistica|Arquitetura da informação, usabilidade e infografia]]
 
-**Foco:** diferenciar press release de notícia; press kit de material de divulgação isolado; coletiva de exclusiva; arquitetura da informação de design visual; usabilidade de estética; infografia de mera ilustração.
+**Foco:** diferenciar press release de notícia; press kit de material de divulgação isolado; coletiva de exclusiva; arquitetura da informação de design visual; usabilidade de estética; infografia de mera ilustração. Revise [[3 - Materias/Comunicacao/131 - agencias de noticias distribuicao e modelos de circulacao|agências de notícias]] e [[3 - Materias/Comunicacao/132 - arquitetura da informacao usabilidade e infografia jornalistica|arquitetura da informação e UX]].
 
 ### 6. Sustentabilidade e Responsabilidade Social Corporativa
 
 **Programa:** ODS; gestão ambiental nas organizações; indicadores; negócios circulares e de impacto socioambiental; RSC (normas, modelos e ferramentas); certificações e selos; balanço socioambiental; práticas jornalísticas, complexidade e transversalidade da pauta socioambiental; desenvolvimento sustentável; responsabilidade social; marketing verde; consumo sustentável.
 
-**Nota nova e aprofundada:** [[3 - Materias/Comunicacao/Transpetro 2026 - Sustentabilidade e responsabilidade social corporativa|Sustentabilidade e Responsabilidade Social Corporativa — guia de prova]].
+**Nota nova e aprofundada:** [[3 - Materias/Comunicacao/Transpetro 2026 - Sustentabilidade e responsabilidade social corporativa|Sustentabilidade e Responsabilidade Social Corporativa — guia de prova]]. Para a prática jornalística, leia [[3 - Materias/Comunicacao/133 - jornalismo socioambiental complexidade transversalidade e cobertura|Jornalismo socioambiental: complexidade, transversalidade e cobertura]].
 
 ## Reta final sugerida (19 a 28 de novembro)
 
