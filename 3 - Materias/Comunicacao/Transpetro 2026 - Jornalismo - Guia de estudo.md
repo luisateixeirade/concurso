@@ -97,6 +97,7 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 - [[3 - Materias/Comunicacao/126 - apuracao jornalistica verificacao documentos e triangulacao|Apuração: verificação, documentos e triangulação]]
 - [[3 - Materias/Comunicacao/127 - fontes jornalisticas classificacao credibilidade sigilo e diversidade|Fontes: tipos, credibilidade, sigilo e pluralidade]]
 - [[3 - Materias/Comunicacao/128 - reportagem jornalistica estrutura narrativa dados e contexto|Reportagem: estrutura, narrativa, dados e contexto]]
+- [[3 - Materias/Comunicacao/129 - simulado inedito pauta apuracao fontes e reportagem|Simulado inédito: pauta, apuração, fontes e reportagem (15 questões)]]
 - [[3 - Materias/Comunicacao/04 - criterios de noticiabilidade|Critérios de noticiabilidade]]
 - [[3 - Materias/Comunicacao/05 - lead piramide invertida e storytelling|Lide e pirâmide invertida]]
 - [[3 - Materias/Comunicacao/13 - generos jornalisticos|Gêneros jornalísticos]]

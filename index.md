@@ -82,6 +82,7 @@ Catálogo global de conhecimento e planejamento do vault de concursos.
 - - [[3 - Materias/Comunicacao/126 - apuracao jornalistica verificacao documentos e triangulacao|Apuração: verificação, documentos e triangulação]]
 - - [[3 - Materias/Comunicacao/127 - fontes jornalisticas classificacao credibilidade sigilo e diversidade|Fontes: tipos, credibilidade, sigilo e pluralidade]]
 - - [[3 - Materias/Comunicacao/128 - reportagem jornalistica estrutura narrativa dados e contexto|Reportagem: estrutura, narrativa, dados e contexto]]
+- - [[3 - Materias/Comunicacao/129 - simulado inedito pauta apuracao fontes e reportagem|Simulado inédito: pauta, apuração, fontes e reportagem (15 questões)]]
 
 
 ### CGU 2026: matérias numeradas
