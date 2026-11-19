@@ -19,7 +19,7 @@ const walk = (dir, prefix = '') => {
 };
 walk(path.join(root, '3 - Materias'));
 const resultado = validarCatalogoMaterias(catalogo, arquivos, concursos);
-assert.equal(resultado.concursos, 3);
+assert.equal(resultado.concursos, 4);
 const porId = Object.fromEntries(catalogo.contests.map(item => [item.concursoId, item]));
 assert.equal(porId['cgu-2026'].subjects.length, 15, 'CGU deve ter 15 matérias');
 assert.equal(porId['dataprev-2026'].subjects.length, 6, 'Dataprev: 5 grupos básicos + comunicação');
@@ -27,6 +27,8 @@ assert.equal(porId['camara-2026'].subjects.length, 11, 'Câmara: grupos curricul
 assert.ok(!porId['dataprev-2026'].subjects.some(x => x.subjectId === 'auditoria-governamental'));
 assert.ok(porId['cgu-2026'].subjects.some(x => x.subjectId === 'contabilidade-publica'));
 assert.ok(porId['camara-2026'].subjects.some(x => x.subjectId === 'comunicacao'));
+assert.equal(porId['transpetro-2026-jornalismo'].subjects.length, 1, 'Transpetro Jornalismo deve ter sua matéria específica');
+assert.ok(porId['transpetro-2026-jornalismo'].subjects.some(x => x.subjectId === 'comunicacao-jornalismo'));
 // Contrato de independência editorial de Orçamento Público entre CGU e Câmara.
 const orcCGU = porId['cgu-2026'].subjects.find(x => x.subjectId === 'orcamento-publico');
 const orcCamara = porId['camara-2026'].subjects.find(x => x.subjectId === 'orcamento-publico');
