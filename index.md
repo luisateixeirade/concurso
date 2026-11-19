@@ -11,6 +11,7 @@ Catálogo global de conhecimento e planejamento do vault de concursos.
 - [[1 - Planejamento/Camara 2026 - Coordenacao editorial Administracao Publica|Câmara 2026: três frentes de certificação de Administração Pública]]
 - [[1 - Planejamento/Camara 2026 - Encerramento editorial e tecnico|Câmara 2026: encerramento editorial e técnico com ressalvas, 11 matérias e 333 artigos]]
 - [[1 - Planejamento/Glossario CGU 2026 - Arquitetura e backlog de 200 termos|Glossário CGU: catálogo expansível de conceitos e classificações]]
+- [[1 - Planejamento/Transpetro 2026 - Plano de reta final 19 nov a 5 dez|Transpetro 2026 — plano de reta final (19/11 a 05/12)]]
 - [[1 - Planejamento/Continuidade de estudo por materia|Continuidade de estudo por matéria]]
 - [[1 - Planejamento/CGU 2026 - Plano de materias|CGU 2026: plano das 15 matérias]]
 - [[1 - Planejamento/Materias sem artigos - Plano de implementacao por fases|Matérias sem artigos próprios: plano por fases]]
@@ -78,6 +79,7 @@ Catálogo global de conhecimento e planejamento do vault de concursos.
 ### Transpetro 2026 — Comunicação Social: Jornalismo
 - [[3 - Materias/Comunicacao/Transpetro 2026 - Jornalismo - Guia de estudo|Guia de estudo e mapa do edital]]
 - [[3 - Materias/Comunicacao/Transpetro 2026 - Sustentabilidade e responsabilidade social corporativa|Sustentabilidade e Responsabilidade Social Corporativa]]
+- [[3 - Materias/Comunicacao/136 - simulado teorias da comunicacao aplicadas e comparadas|Simulado inédito — Teorias da Comunicação (16 questões)]]
 - [[3 - Materias/Comunicacao/125 - pauta jornalistica planejamento recorte e apuracao inicial|Pauta: planejamento, recorte e apuração inicial]]
 - [[3 - Materias/Comunicacao/126 - apuracao jornalistica verificacao documentos e triangulacao|Apuração: verificação, documentos e triangulação]]
 - [[3 - Materias/Comunicacao/127 - fontes jornalisticas classificacao credibilidade sigilo e diversidade|Fontes: tipos, credibilidade, sigilo e pluralidade]]
