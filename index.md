@@ -624,4 +624,4 @@ Catálogo global de conhecimento e planejamento do vault de concursos.
   - [[3 - Materias/Redacao/03 - estrategias de argumentacao|03 • Estratégias de argumentação]]
 
 ---
-*Última atualização: 2026-11-04*
+*Última atualização: 2026-11-20*
