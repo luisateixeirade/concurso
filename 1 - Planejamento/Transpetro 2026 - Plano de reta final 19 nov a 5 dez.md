@@ -30,10 +30,11 @@ Se o dia estiver pesado, preservar pelo menos o bloco de questões + correção;
 
 ### 20/11 — Efeitos, recepção e opinião pública
 - Lazarsfeld e fluxo em duas etapas; líderes de opinião.
-- Agenda-setting, framing, gatekeeping e espiral do silêncio.
+- Agenda-setting (1º e 2º níveis), priming, framing, gatekeeping; agenda-building e intermedia agenda-setting.
 - Usos e gratificações; recepção ativa; codificação/decodificação.
-- Fazer questões aplicadas; montar quadro “pergunta que cada teoria responde”.
-- Ler a nota [[3 - Materias/Comunicacao/35 - agenda setting saliencia mediatica e agenda publica|Agenda-setting]] (restaurada para preencher lacuna do índice); resolver as 15 questões sem consulta e revisar saliência × framing × priming × gatekeeping.
+- Opinião pública, esfera pública, sondagens: população-alvo, marco amostral, autoseleção, viés de pergunta/ordem e limites da margem de erro.
+- Revisar [[3 - Materias/Comunicacao/34 - lazarsfeld fluxo em duas etapas e lideres de opiniao|fluxo em duas etapas]], [[3 - Materias/Comunicacao/35 - agenda setting saliencia mediatica e agenda publica|agenda-setting]], [[3 - Materias/Comunicacao/36 - framing enquadramento e interpretacao da noticia|framing]], [[3 - Materias/Comunicacao/42 - opiniao publica formacao e esfera publica|opinião pública]] e [[3 - Materias/Comunicacao/43 - espiral do silencio noelle neumann clima de opiniao|espiral do silêncio]].
+- Fazer o [[3 - Materias/Comunicacao/140 - simulado efeitos recepcao opiniao publica|Simulado 140]] sem consulta; registrar confusões e revisar somente as questões erradas.
 
 ### 21/11 — Teoria crítica, estudos culturais e contemporaneidade
 - Frankfurt/indústria cultural; cultura, hegemonia e Estudos Culturais.
