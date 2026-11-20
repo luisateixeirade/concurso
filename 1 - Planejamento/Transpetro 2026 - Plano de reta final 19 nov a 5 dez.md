@@ -3,7 +3,7 @@ title: "Transpetro 2026 — plano de reta final de 19/11 a 05/12"
 type: "planejamento"
 status: "ativo"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 # Transpetro 2026 — plano de reta final
@@ -33,6 +33,7 @@ Se o dia estiver pesado, preservar pelo menos o bloco de questões + correção;
 - Agenda-setting, framing, gatekeeping e espiral do silêncio.
 - Usos e gratificações; recepção ativa; codificação/decodificação.
 - Fazer questões aplicadas; montar quadro “pergunta que cada teoria responde”.
+- Ler a nota [[3 - Materias/Comunicacao/35 - agenda setting saliencia mediatica e agenda publica|Agenda-setting]] (restaurada para preencher lacuna do índice); resolver as 15 questões sem consulta e revisar saliência × framing × priming × gatekeeping.
 
 ### 21/11 — Teoria crítica, estudos culturais e contemporaneidade
 - Frankfurt/indústria cultural; cultura, hegemonia e Estudos Culturais.

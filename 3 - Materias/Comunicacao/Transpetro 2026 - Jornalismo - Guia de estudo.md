@@ -5,7 +5,7 @@ title: "Transpetro 2026 — Jornalismo: guia e mapa do edital"
 type: "hub"
 status: "ativo"
 created: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 # Transpetro 2026 — Comunicação Social: Jornalismo
@@ -16,7 +16,7 @@ Guia de estudo organizado pelo **Anexo IV do Edital nº 04 — TRANSPETRO/PSP/TE
 
 **Fonte oficial:** [edital consolidado e retificações — Transpetro](https://transpetro.com.br/lumis/portal/file/fileDownload.jsp?fileId=4028908C9E22CAA601A1D66CCFC97F95). O PDF consultado apresenta retificações até 10 de novembro de 2026. Conferir comunicados posteriores na página oficial da [Fundação Cesgranrio](https://transpetro.cesgranrio.org.br/).
 
-**Prática adicional:** [[3 - Materias/Comunicacao/136 - simulado teorias da comunicacao aplicadas e comparadas|Simulado inédito de Teorias da Comunicação — 16 questões aplicadas]].
+**Prática adicional:** [[3 - Materias/Comunicacao/136 - simulado teorias da comunicacao aplicadas e comparadas|Simulado inédito de Teorias da Comunicação — 16 questões aplicadas]] e [[3 - Materias/Comunicacao/35 - agenda setting saliencia mediatica e agenda publica|nota aprofundada + 15 questões de agenda-setting, priming, framing e agendas]].
 
 ## Estrutura da prova
 

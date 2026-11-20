@@ -80,6 +80,7 @@ Catálogo global de conhecimento e planejamento do vault de concursos.
 - [[3 - Materias/Comunicacao/Transpetro 2026 - Jornalismo - Guia de estudo|Guia de estudo e mapa do edital]]
 - [[3 - Materias/Comunicacao/Transpetro 2026 - Sustentabilidade e responsabilidade social corporativa|Sustentabilidade e Responsabilidade Social Corporativa]]
 - [[3 - Materias/Comunicacao/136 - simulado teorias da comunicacao aplicadas e comparadas|Simulado inédito — Teorias da Comunicação (16 questões)]]
+- [[3 - Materias/Comunicacao/35 - agenda setting saliencia mediatica e agenda publica|Agenda-setting — saliência, agendas, atributos, priming e limites causais; simulado (15 questões)]]
 - [[3 - Materias/Comunicacao/137 - simulado etica responsabilidade e direitos jornalisticos|Simulado aplicado — ética, responsabilidade e direitos jornalísticos (15 questões)]]
 - [[3 - Materias/Comunicacao/138 - simulado LAI transparencia e comunicacao publica|Simulado aplicado — LAI, transparência e comunicação pública (15 questões)]]
 - [[3 - Materias/Comunicacao/139 - simulado assessoria de imprensa produtos relacionamento e mensuracao|Simulado aplicado — assessoria de imprensa, produtos, relacionamento e mensuração (15 questões)]]
