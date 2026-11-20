@@ -84,6 +84,7 @@ Catálogo global de conhecimento e planejamento do vault de concursos.
 - [[3 - Materias/Comunicacao/137 - simulado etica responsabilidade e direitos jornalisticos|Simulado aplicado — ética, responsabilidade e direitos jornalísticos (15 questões)]]
 - [[3 - Materias/Comunicacao/138 - simulado LAI transparencia e comunicacao publica|Simulado aplicado — LAI, transparência e comunicação pública (15 questões)]]
 - [[3 - Materias/Comunicacao/139 - simulado assessoria de imprensa produtos relacionamento e mensuracao|Simulado aplicado — assessoria de imprensa, produtos, relacionamento e mensuração (15 questões)]]
+- [[3 - Materias/Comunicacao/140 - simulado efeitos recepcao opiniao publica|Simulado aplicado — efeitos, recepção e opinião pública (15 questões)]]
 - [[3 - Materias/Comunicacao/125 - pauta jornalistica planejamento recorte e apuracao inicial|Pauta: planejamento, recorte e apuração inicial]]
 - [[3 - Materias/Comunicacao/126 - apuracao jornalistica verificacao documentos e triangulacao|Apuração: verificação, documentos e triangulação]]
 - [[3 - Materias/Comunicacao/127 - fontes jornalisticas classificacao credibilidade sigilo e diversidade|Fontes: tipos, credibilidade, sigilo e pluralidade]]
@@ -623,4 +624,4 @@ Catálogo global de conhecimento e planejamento do vault de concursos.
   - [[3 - Materias/Redacao/03 - estrategias de argumentacao|03 • Estratégias de argumentação]]
 
 ---
-*Última atualização: 2026-11-04*
+*Última atualização: 2026-11-20*

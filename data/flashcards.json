@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "exams": [
     {
       "id": "cgu-2026",
@@ -16,6 +16,11 @@
       "id": "camara-2026",
       "title": "Câmara 2026 · Divulgação Institucional",
       "board": "Cebraspe"
+    },
+    {
+      "id": "transpetro-2026-jornalismo",
+      "title": "Transpetro 2026 · Ênfase 11 Jornalismo",
+      "board": "Cesgranrio"
     }
   ],
   "subjects": [
@@ -102,6 +107,10 @@
     {
       "id": "direito-constitucional",
       "title": "Direito Constitucional"
+    },
+    {
+      "id": "comunicacao-jornalismo",
+      "title": "Comunicação Social — Jornalismo (Transpetro)"
     }
   ],
   "cards": [
@@ -13529,6 +13538,438 @@
       "status": "validated",
       "reviewedAt": "2026-11-19",
       "revision": 2
+    },
+    {
+      "id": "tr-agenda-prime",
+      "term": "Agenda-setting × priming",
+      "definition": "Agenda-setting trata da saliência de temas/atributos; priming, de tornar critérios mais acessíveis para avaliar atores, políticas ou instituições. São perguntas analíticas distintas.",
+      "example": "Cobertura torna segurança um tema prioritário (agenda-setting); depois, segurança pesa mais na avaliação da gestão (priming).",
+      "confusion": "Aumentar a prioridade de um tema não prova mudança de opinião sobre uma organização.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Agenda-setting, priming e framing"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Agenda-setting, priming e framing"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "agenda-setting-priming"
+      ],
+      "contrast": {
+        "prompt": "Quando cobertura aumenta prioridade de tema e, depois, esse tema passa a pesar na avaliação institucional, quais conceitos se distinguem?",
+        "answer": "Agenda-setting descreve saliência de temas/atributos; priming, a influência da saliência nos critérios avaliativos."
+      }
+    },
+    {
+      "id": "tr-second-level-framing",
+      "term": "Segundo nível × framing",
+      "definition": "Segundo nível examina a saliência de atributos; framing analisa como seleção e organização de aspectos favorecem interpretações, definições de problema, causas e respostas.",
+      "example": "Atributos de segurança e transparência tornam-se destacados; um enquadramento apresenta manutenção como causa e prevenção como solução.",
+      "confusion": "Os conceitos são próximos e discutidos na literatura; identifique a variável observada no enunciado.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Agenda-setting, priming e framing"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Agenda-setting, priming e framing"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "second-level-agenda-framing"
+      ],
+      "contrast": {
+        "prompt": "A saliência de atributos e a organização interpretativa da notícia são a mesma coisa?",
+        "answer": "Não exatamente. Agenda de atributos mede saliência; framing investiga seleção/organização interpretativa. Há proximidade teórica."
+      }
+    },
+    {
+      "id": "tr-agenda-building-intermedia",
+      "term": "Agenda-building × intermedia agenda-setting",
+      "definition": "Agenda-building estuda a formação de agendas por múltiplos atores e processos; intermedia agenda-setting examina relações de saliência entre meios.",
+      "example": "Atores, fontes, comunidade, eventos e instituições moldam a pauta; um estudo específico compara destaque em portal regional e nacional.",
+      "confusion": "Intermedia agenda-setting é mais específica à relação entre meios, não toda a construção da agenda social.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Agenda-building e intermedia agenda-setting"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Agenda-building e intermedia agenda-setting"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "agenda-building-intermedia"
+      ],
+      "contrast": {
+        "prompt": "Como distinguir a formação ampla de uma agenda e a influência entre agendas de veículos?",
+        "answer": "Agenda-building aborda atores/processos múltiplos; intermedia agenda-setting compara a relação entre agendas de meios."
+      }
+    },
+    {
+      "id": "tr-two-step-flow",
+      "term": "Fluxo em duas etapas",
+      "definition": "Influência dos meios pode ser mediada por líderes de opinião e relações interpessoais; o modelo clássico não estabelece caminho rígido e universal.",
+      "example": "Trabalhadores consultam noticiário e discutem interpretações com colegas confiáveis que compartilham informações.",
+      "confusion": "Não se trata de exatamente duas etapas em todos os públicos ou situações.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Fluxo em duas etapas"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Fluxo em duas etapas"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "two-step-flow"
+      ],
+      "contrast": {
+        "prompt": "O fluxo em duas etapas exige que toda mensagem passe exatamente por duas pessoas/estágios?",
+        "answer": "Não. É uma hipótese sobre mediação interpessoal, não uma sequência rígida universal."
+      }
+    },
+    {
+      "id": "tr-uses-gratifications",
+      "term": "Usos e gratificações",
+      "definition": "Investiga necessidades, motivos e gratificações que orientam escolhas de mídia/conteúdo, considerando agência da audiência e condicionamentos.",
+      "example": "Públicos escolhem podcasts para aprender, rádio para companhia, notícias para orientação ou vídeos para entretenimento.",
+      "confusion": "A audiência não é totalmente livre de condições sociais, econômicas ou de disponibilidade.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Usos e gratificações"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Usos e gratificações"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "uses-gratifications"
+      ],
+      "contrast": {
+        "prompt": "Uma pesquisa pergunta por que públicos escolhem rádio, podcast ou vídeos: que abordagem?",
+        "answer": "Usos e gratificações: necessidades, motivos e recompensas percebidas na seleção de meios/conteúdos."
+      }
+    },
+    {
+      "id": "tr-hall-readings",
+      "term": "Hall: posições de leitura",
+      "definition": "Dominante-hegemônica aceita sentido preferencial; negociada aceita parte e adapta/contesta; oposicional compreende e rejeita o código dominante.",
+      "example": "Pessoa aceita importância de segurança, mas contesta o enquadramento e exige responsabilização e voz comunitária: leitura negociada.",
+      "confusion": "São posições relativas a textos e contextos, não tipos fixos de pessoas.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Recepção: posições de leitura"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Recepção: posições de leitura"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "hall-reading-positions"
+      ],
+      "contrast": {
+        "prompt": "Aceitar a mensagem geral, mas contestar detalhes locais, caracteriza qual posição?",
+        "answer": "Leitura negociada: aceita parte do sentido preferencial, mas adapta ou contesta elementos."
+      }
+    },
+    {
+      "id": "tr-voluntary-polls",
+      "term": "Enquete voluntária × pesquisa representativa",
+      "definition": "Participantes autoselecionados não representam automaticamente uma população. Número alto de respostas não corrige seleção; margem de erro convencional não se aplica como em amostra probabilística.",
+      "example": "Enquete aberta no site recebe milhares de respostas, mas descreve os participantes que decidiram responder.",
+      "confusion": "Online não significa probabilística; volume não elimina viés de seleção.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Opinião pública, esfera pública e sondagens"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Opinião pública, esfera pública e sondagens"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "voluntary-polls"
+      ],
+      "contrast": {
+        "prompt": "Enquete online aberta pode representar toda a população só porque recebeu milhares de respostas?",
+        "answer": "Não. Autoseleção limita a inferência; tamanho não corrige o desenho nem autoriza margem de erro convencional."
+      }
+    },
+    {
+      "id": "tr-sample-frame",
+      "term": "Marco amostral e subcobertura",
+      "definition": "Marco amostral deve cobrir a população-alvo. Lista restrita exclui pessoas; ponderação ajusta variáveis observadas, mas não recupera automaticamente subgrupos ausentes ou vieses não observados.",
+      "example": "Pesquisa de moradores distribuída apenas a empregados da organização tem subcobertura grave do público-alvo.",
+      "confusion": "Ponderação não é solução universal para seleção e cobertura inadequadas.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Opinião pública, esfera pública e sondagens"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Opinião pública, esfera pública e sondagens"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "sample-frame-undercoverage"
+      ],
+      "contrast": {
+        "prompt": "Pesquisa de moradores usa apenas lista de empregados; qual problema central?",
+        "answer": "Subcobertura/seleção do marco amostral. A lista não cobre moradores; ponderar não elimina todos os vieses."
+      }
+    },
+    {
+      "id": "tr-question-wording-order",
+      "term": "Redação e ordem do questionário",
+      "definition": "Perguntas neutras, claras e sobre um conceito; opções equilibradas; contexto e ordem podem influenciar. Pré-teste e instrumento consistente ajudam comparabilidade.",
+      "example": "Pergunta carregada sobre uma medida 'responsável e necessária' ou sobre apoio após ler argumentos tende a introduzir viés.",
+      "confusion": "Mudanças de wording, modo e ordem podem produzir diferença aparente sem mudança real de opinião.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Viés de pergunta e ordem"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Viés de pergunta e ordem"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "question-wording-order"
+      ],
+      "contrast": {
+        "prompt": "Como reduzir efeito de redação e ordem na pesquisa?",
+        "answer": "Neutralizar, perguntar um conceito, balancear opções, pré-testar e controlar contexto/ordem; manter instrumento ao comparar."
+      }
+    },
+    {
+      "id": "tr-spiral-silence",
+      "term": "Espiral do silêncio",
+      "definition": "Clima de opinião percebido e expectativa de isolamento podem reduzir expressão; silêncio não prova concordância, maioria real ou ausência de opinião.",
+      "example": "Pessoa acha que posição é minoritária e evita manifestá-la; a posição visível parece mais dominante.",
+      "confusion": "Clima percebido não equivale à distribuição real das opiniões.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Espiral do silêncio e visibilidade digital"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Espiral do silêncio e visibilidade digital"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "spiral-silence"
+      ],
+      "contrast": {
+        "prompt": "Silêncio em uma reunião prova que todos concordam?",
+        "answer": "Não. Pode decorrer de clima percebido, receio, falta de acesso, interesse ou outros fatores; não mede opinião privada."
+      }
+    },
+    {
+      "id": "tr-public-sphere",
+      "term": "Esfera pública",
+      "definition": "Espaços/processos de debate de questões coletivas dependem de acesso, inclusão, pluralidade, informação, argumentação e responsividade, não só visibilidade.",
+      "example": "Plataforma tem muitos comentários, mas barreiras de acesso, linguagem e pouca resposta institucional comprometem participação.",
+      "confusion": "Métrica de engajamento não prova deliberação ou representatividade.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Opinião pública, esfera pública e sondagens"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Opinião pública, esfera pública e sondagens"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "public-sphere"
+      ],
+      "contrast": {
+        "prompt": "Como avaliar qualidade da esfera pública além de likes e comentários?",
+        "answer": "Examinar acesso, inclusão, pluralidade, informação, debate, participação e responsividade."
+      }
+    },
+    {
+      "id": "tr-causal-effects",
+      "term": "Efeitos e causalidade",
+      "definition": "Exposição, atenção, lembrança, compreensão, atitude e comportamento são resultados distintos. Antes/depois sem controle não isola a campanha.",
+      "example": "Confiança cresce após campanha, mas ocorre evento externo e a amostra muda; não se pode atribuir causalidade.",
+      "confusion": "Temporalidade e correlação não bastam; avaliar desenho, alternativas e comparabilidade.",
+      "topic": "Efeitos, recepção e opinião pública",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-140-effects-reception-opinion-transpetro-2026",
+        "section": "Efeitos e inferência causal"
+      },
+      "source": {
+        "title": "Simulado autoral e síntese de revisão",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/140%20-%20simulado%20efeitos%20recepcao%20opiniao%20publica.md",
+        "locator": "Seção: Efeitos e inferência causal"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-20",
+      "revision": 1,
+      "conceptIds": [
+        "media-effects-causality"
+      ],
+      "contrast": {
+        "prompt": "Aumento de confiança após campanha sem grupo de comparação prova efeito?",
+        "answer": "Não. É associação temporal; fatores concorrentes, seleção e mudança de medida impedem atribuição causal robusta."
+      }
     }
   ]
 }

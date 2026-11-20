@@ -17,7 +17,7 @@ export function validateFlashcards(data,root) {
         assert.ok(Array.isArray(c.conceptIds)&&new Set(c.conceptIds).size===c.conceptIds.length&&c.conceptIds.every(id=>typeof id==='string'&&/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(id)),c.id+': conceitos inválidos');
         assert.equal(c.status,'validated');assert.match(c.reviewedAt,/^\d{4}-\d{2}-\d{2}$/);assert.ok(Number.isInteger(c.revision)&&c.revision>0);
         assert.ok(c.examIds.length&&c.examIds.every(id=>exams.has(id)));assert.ok(c.subjectIds.length&&c.subjectIds.every(id=>subjects.has(id)));
-        assert.ok(c.editalRefs.length&&c.editalRefs.every(x=>typeof x==='string'&&/^(?:P\d|DP-(?:GER|ESP))/.test(x)));
+        assert.ok(c.editalRefs.length&&c.editalRefs.every(x=>typeof x==='string'&&/^(?:P\d|DP-(?:GER|ESP)|TR-ESP)/.test(x)));
         // Cada cartão pode servir a disciplinas diferentes em concursos diferentes.
         // Garantir uma disciplina válida por concurso e cobertura de toda disciplina declarada.
         const covered=new Set();
