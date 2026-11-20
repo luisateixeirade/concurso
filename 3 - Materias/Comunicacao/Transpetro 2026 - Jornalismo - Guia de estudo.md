@@ -129,7 +129,9 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 - [[3 - Materias/Comunicacao/131 - agencias de noticias distribuicao e modelos de circulacao|Agências de notícias: distribuição e circulação]]
 - [[3 - Materias/Comunicacao/132 - arquitetura da informacao usabilidade e infografia jornalistica|Arquitetura da informação, usabilidade e infografia]]
 
-**Foco:** diferenciar press release de notícia; press kit de material de divulgação isolado; coletiva de exclusiva; arquitetura da informação de design visual; usabilidade de estética; infografia de mera ilustração. Revise [[3 - Materias/Comunicacao/131 - agencias de noticias distribuicao e modelos de circulacao|agências de notícias]] e [[3 - Materias/Comunicacao/132 - arquitetura da informacao usabilidade e infografia jornalistica|arquitetura da informação e UX]].
+**Foco:** diferenciar press release de notícia; press kit de material de divulgação isolado; coletiva de exclusiva; arquitetura da informação de design visual; usabilidade de estética; infografia de mera ilustração.
+
+- [[3 - Materias/Comunicacao/139 - simulado assessoria de imprensa produtos relacionamento e mensuracao|Simulado aplicado — assessoria de imprensa, produtos, relacionamento e mensuração (15 questões)]] — pratique release/press kit/briefing, coletiva e exclusiva, media training, mailing, clipping, métricas, AVE, transparência e correção. Revise [[3 - Materias/Comunicacao/131 - agencias de noticias distribuicao e modelos de circulacao|agências de notícias]] e [[3 - Materias/Comunicacao/132 - arquitetura da informacao usabilidade e infografia jornalistica|arquitetura da informação e UX]].
 
 ### 6. Sustentabilidade e Responsabilidade Social Corporativa
 
