@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "exams": [
     {
       "id": "cgu-2026",
@@ -13969,6 +13969,510 @@
       "contrast": {
         "prompt": "Aumento de confiança após campanha sem grupo de comparação prova efeito?",
         "answer": "Não. É associação temporal; fatores concorrentes, seleção e mudança de medida impedem atribuição causal robusta."
+      }
+    },
+    {
+      "id": "tr-critical-cultural-lenses",
+      "term": "Teoria crítica × Estudos Culturais",
+      "definition": "Teoria crítica examina condições histórico-sociais, dominação, mercantilização e emancipação; Estudos Culturais articulam cultura, representação, identidade, práticas, produção, recepção e poder. As tradições não são homogêneas nem mutuamente excludentes.",
+      "example": "Investigar padronização/mercantilização de uma campanha (Frankfurt) e como trabalhadores e comunidades interpretam representações (Estudos Culturais) são perguntas complementares.",
+      "confusion": "Não caricaturar Frankfurt como audiência sempre passiva nem Estudos Culturais como celebração acrítica do consumo.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Frankfurt e Estudos Culturais: divergência de ênfase, não caricatura"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Frankfurt e Estudos Culturais: divergência de ênfase, não caricatura"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "critical-theory-cultural-studies"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não caricaturar Frankfurt como audiência sempre passiva nem Estudos Culturais como celebração acrítica do consumo."
+      }
+    },
+    {
+      "id": "tr-culture-industry",
+      "term": "Indústria cultural",
+      "definition": "Conceito crítico de Adorno e Horkheimer para analisar produção cultural organizada segundo racionalização, mercadoria, fórmulas e padronização; cultura não é simplesmente produto espontâneo das massas.",
+      "example": "Uma série repete estruturas narrativas e modelos de rentabilidade em diferentes temporadas e mercados.",
+      "confusion": "Não significa somente censura estatal, nem prova que todo público é passivo ou que cada obra é idêntica.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Indústria cultural e pseudoindividualização"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Indústria cultural e pseudoindividualização"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "culture-industry"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não significa somente censura estatal, nem prova que todo público é passivo ou que cada obra é idêntica."
+      }
+    },
+    {
+      "id": "tr-pseudoindividualization",
+      "term": "Pseudoindividualização",
+      "definition": "Aparência de singularidade e escolha pode coexistir com estruturas/formas padronizadas; sinais de diferenciação não eliminam a fórmula mercantil.",
+      "example": "Peças parecem personalizadas por segmento, mas seguem roteiro, formato, financiamento e distribuição comuns.",
+      "confusion": "Variação superficial não comprova autonomia estrutural; o conceito não implica identidade literal de todos os produtos.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Indústria cultural e pseudoindividualização"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Indústria cultural e pseudoindividualização"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "pseudoindividualization"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Variação superficial não comprova autonomia estrutural; o conceito não implica identidade literal de todos os produtos."
+      }
+    },
+    {
+      "id": "tr-benjamin-aura",
+      "term": "Benjamin: reprodução técnica e aura",
+      "definition": "Reprodução técnica transforma singularidade/aura, acesso, experiência e recepção das obras; Benjamin analisa potenciais políticos ambivalentes, sem garantir emancipação pela técnica.",
+      "example": "Reprodução de imagens amplia circulação e muda modos de recepção, mas usos podem servir a projetos de poder distintos.",
+      "confusion": "Não atribuir a Benjamin uma democratização automática, nem fundir suas posições com Adorno e Horkheimer.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Benjamin: reprodução técnica e ambivalência"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Benjamin: reprodução técnica e ambivalência"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "benjamin-reproduction-aura"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não atribuir a Benjamin uma democratização automática, nem fundir suas posições com Adorno e Horkheimer."
+      }
+    },
+    {
+      "id": "tr-williams-ordinary-culture",
+      "term": "Raymond Williams: cultura ordinária",
+      "definition": "Cultura inclui modo de vida e práticas de significação/arte/aprendizagem; sentidos são comuns, historicamente formados, debatidos e criados. Williams rejeita a exclusão elitista da experiência cotidiana.",
+      "example": "Estudar linguagem, trabalho, festas, repertórios midiáticos e criação local como práticas culturais articuladas às transformações sociais.",
+      "confusion": "Cultura não se limita ao cânone nem se reduz a consumo de mídia ou gosto individual.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Williams: cultura ordinária e estruturas de sentimento"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Williams: cultura ordinária e estruturas de sentimento"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "williams-ordinary-culture"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Cultura não se limita ao cânone nem se reduz a consumo de mídia ou gosto individual."
+      }
+    },
+    {
+      "id": "tr-williams-structures-feeling",
+      "term": "Estruturas de sentimento",
+      "definition": "Em Williams, ajudam a investigar experiências, sensibilidades e significados vividos, emergentes e nem sempre plenamente formalizados por instituições, conceitos ou discursos dominantes.",
+      "example": "Relatos, formas de expressão e práticas locais indicam experiência coletiva de mudança ainda não consolidada em política ou linguagem oficial.",
+      "confusion": "Não são emoções isoladas nem uma sondagem que mede opinião individual.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Williams: cultura ordinária e estruturas de sentimento"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Williams: cultura ordinária e estruturas de sentimento"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "structures-of-feeling"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não são emoções isoladas nem uma sondagem que mede opinião individual."
+      }
+    },
+    {
+      "id": "tr-hegemony-consent",
+      "term": "Hegemonia: consentimento e disputa",
+      "definition": "Hegemonia envolve construção de consentimento e senso comum em relações de poder, sem eliminar conflito, resistência e disputa por significados.",
+      "example": "Uma representação institucional torna certas premissas 'naturais', enquanto comunidades articulam contra-narrativas e reivindicam outras definições.",
+      "confusion": "Não é apenas coerção direta nem consenso total; hegemonia é disputada e histórica.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Hegemonia e recepção"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Hegemonia e recepção"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "hegemony-consent"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não é apenas coerção direta nem consenso total; hegemonia é disputada e histórica."
+      }
+    },
+    {
+      "id": "tr-mcluhan-medium-message",
+      "term": "McLuhan: meio é a mensagem",
+      "definition": "O foco recai nas mudanças de escala, ritmo, padrão e relações que a forma/ambiente do meio introduz; não significa que conteúdo seja irrelevante nem que tecnologia determine efeitos inevitáveis.",
+      "example": "O mesmo aviso em rádio, portal e vídeo curto oferece condições distintas de alcance, atualização, interação e organização da rotina.",
+      "confusion": "Não confundir mensagem estrutural do meio com tema/conteúdo do texto, nem reduzir a determinismo tecnológico.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "McLuhan: forma sem determinismo"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: McLuhan: forma sem determinismo"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "mcluhan-medium-message"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não confundir mensagem estrutural do meio com tema/conteúdo do texto, nem reduzir a determinismo tecnológico."
+      }
+    },
+    {
+      "id": "tr-hot-cool-media",
+      "term": "Meios quentes × frios",
+      "definition": "Tipologia de McLuhan relaciona definição/quantidade de informação e participação/complementação exigida; exemplos e aplicação precisam de contexto histórico e interpretação.",
+      "example": "Ao comparar rádio e televisão em uma situação histórica específica, explique o critério de definição/participação em vez de classificar pela tecnologia mais nova.",
+      "confusion": "Não é temperatura literal, escala de qualidade, efeito moral, nem regra de que todo digital é frio.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "McLuhan: forma sem determinismo"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: McLuhan: forma sem determinismo"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "hot-cool-media"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não é temperatura literal, escala de qualidade, efeito moral, nem regra de que todo digital é frio."
+      }
+    },
+    {
+      "id": "tr-mediatization",
+      "term": "Midiatização",
+      "definition": "Processo histórico mais amplo pelo qual práticas, instituições e relações se transformam em interação com meios e ambientes comunicacionais; enfoques variam entre autores.",
+      "example": "Uma instituição reorganiza regras, rituais, horários e prestação de contas porque a comunicação mediada passou a estruturar a atividade.",
+      "confusion": "Não equivale a simplesmente adotar ou transmitir por um canal; exige evidência de transformação de práticas.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Midiatização × plataformização × capitalismo de vigilância"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Midiatização × plataformização × capitalismo de vigilância"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "mediatization"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não equivale a simplesmente adotar ou transmitir por um canal; exige evidência de transformação de práticas."
+      }
+    },
+    {
+      "id": "tr-platformization",
+      "term": "Plataformização",
+      "definition": "Penetração de plataformas em setores/práticas por infraestrutura, mercados, governança, dados e reorganização de práticas culturais e profissionais.",
+      "example": "Distribuição de conteúdo, analytics e produção passam a depender de regras, APIs, métricas, monetização e sistemas de recomendação.",
+      "confusion": "Não é sinônimo de estar online, usar smartphone ou publicar em uma rede social.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Midiatização × plataformização × capitalismo de vigilância"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Midiatização × plataformização × capitalismo de vigilância"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "platformization"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não é sinônimo de estar online, usar smartphone ou publicar em uma rede social."
+      }
+    },
+    {
+      "id": "tr-contingent-cultural-commodity",
+      "term": "Commodity cultural contingente",
+      "definition": "Conteúdo cultural torna-se maleável, modular e continuamente reformatado/reempacotado conforme feedback dataficado e condições mutáveis das plataformas, aumentando dependências.",
+      "example": "Uma reportagem é desmembrada em formatos, alterada e redistribuída de acordo com métricas e mudanças na governança da plataforma.",
+      "confusion": "Não significa desintermediação, autonomia plena nem que todo conteúdo seja necessariamente manipulado.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Midiatização × plataformização × capitalismo de vigilância"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Midiatização × plataformização × capitalismo de vigilância"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "contingent-cultural-commodity"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não significa desintermediação, autonomia plena nem que todo conteúdo seja necessariamente manipulado."
+      }
+    },
+    {
+      "id": "tr-surveillance-capitalism",
+      "term": "Dataficação × capitalismo de vigilância",
+      "definition": "Dataficação é processo amplo de converter práticas em dados; capitalismo de vigilância é uma lógica específica de acumulação que extrai e utiliza dados comportamentais para previsão e formas de controle/modificação.",
+      "example": "Registros de uso são agregados para inferir padrões e produzir mercados de previsão comportamental, além da operação imediata do serviço.",
+      "confusion": "Nem toda coleta/estatística/arquivo equivale a capitalismo de vigilância; finalidade, modelo de acumulação e uso dos dados importam.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Midiatização × plataformização × capitalismo de vigilância"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Midiatização × plataformização × capitalismo de vigilância"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "surveillance-capitalism"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Nem toda coleta/estatística/arquivo equivale a capitalismo de vigilância; finalidade, modelo de acumulação e uso dos dados importam."
+      }
+    },
+    {
+      "id": "tr-theory-lens-evidence",
+      "term": "Escolha da lente e evidência",
+      "definition": "Escolha a teoria pela pergunta, unidade e evidência: mercantilização/padronização; significados e recepção; forma do meio; transformação institucional; dependência de plataformas; extração de dados. Uma lente não prova efeito causal.",
+      "example": "Combine análise de produção, entrevistas/recepção, observação de rotinas e exame de infraestrutura/regras para investigar campanha multiplataforma.",
+      "confusion": "Não fundir conceitos, usar métrica isolada como causalidade ou presumir efeitos universais.",
+      "topic": "Teoria crítica, Estudos Culturais e contemporaneidade",
+      "subjectIds": [
+        "comunicacao-jornalismo"
+      ],
+      "examIds": [
+        "transpetro-2026-jornalismo"
+      ],
+      "editalRefs": [
+        "TR-ESP"
+      ],
+      "note": {
+        "articleId": "art-141-critical-cultural-contemporary-transpetro-2026",
+        "section": "Mapa comparativo — qual pergunta cada lente faz?"
+      },
+      "source": {
+        "title": "Simulado autoral #141 — síntese e fontes verificáveis",
+        "url": "https://github.com/luisateixeirade/concurso/blob/main/3%20-%20Materias/Comunicacao/141%20-%20simulado%20teoria%20critica%20estudos%20culturais%20e%20contemporaneidade.md",
+        "locator": "Seção: Mapa comparativo — qual pergunta cada lente faz?"
+      },
+      "status": "validated",
+      "reviewedAt": "2026-11-21",
+      "revision": 1,
+      "conceptIds": [
+        "theory-lens-evidence"
+      ],
+      "contrast": {
+        "prompt": "Qual é a distinção ou limite mais importante para recuperar?",
+        "answer": "Não fundir conceitos, usar métrica isolada como causalidade ou presumir efeitos universais."
       }
     }
   ]

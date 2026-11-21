@@ -3,7 +3,7 @@ title: "Transpetro 2026 — plano de reta final de 19/11 a 05/12"
 type: "planejamento"
 status: "ativo"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 # Transpetro 2026 — plano de reta final
@@ -36,10 +36,11 @@ Se o dia estiver pesado, preservar pelo menos o bloco de questões + correção;
 - Revisar [[3 - Materias/Comunicacao/34 - lazarsfeld fluxo em duas etapas e lideres de opiniao|fluxo em duas etapas]], [[3 - Materias/Comunicacao/35 - agenda setting saliencia mediatica e agenda publica|agenda-setting]], [[3 - Materias/Comunicacao/36 - framing enquadramento e interpretacao da noticia|framing]], [[3 - Materias/Comunicacao/42 - opiniao publica formacao e esfera publica|opinião pública]] e [[3 - Materias/Comunicacao/43 - espiral do silencio noelle neumann clima de opiniao|espiral do silêncio]].
 - Fazer o [[3 - Materias/Comunicacao/140 - simulado efeitos recepcao opiniao publica|Simulado 140]] sem consulta; registrar confusões e revisar somente as questões erradas.
 
-### 21/11 — Teoria crítica, estudos culturais e contemporaneidade
-- Frankfurt/indústria cultural; cultura, hegemonia e Estudos Culturais.
-- McLuhan; sociedade em rede, midiatização, plataformização e capitalismo de vigilância.
-- Revisão cumulativa das teorias + 20 questões.
+### 21/11 — Teoria crítica, Estudos Culturais e contemporaneidade
+- Revisar Frankfurt/indústria cultural (padronização e pseudoindividualização), Benjamin (reprodução técnica/aura), Williams (cultura ordinária/estruturas de sentimento), hegemonia e recepção.
+- Comparar McLuhan, midiatização, plataformização e capitalismo de vigilância; distinguir conceitos e unidades de análise.
+- Fazer [[3 - Materias/Comunicacao/141 - simulado teoria critica estudos culturais e contemporaneidade|Simulado 141 — 20 questões]] sem consulta; registrar os erros e refazer as confusões.
+- **Entrega editorial do dia:** simulado #141 e 14 flashcards novos. A entrega não presume que a usuária tenha estudado ou respondido o material.
 
 ### 22/11 — Comunicação Pública e cidadania
 - Interesse público × comunicação governamental × comunicação institucional.

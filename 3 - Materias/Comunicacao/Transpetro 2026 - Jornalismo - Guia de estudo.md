@@ -5,7 +5,7 @@ title: "Transpetro 2026 — Jornalismo: guia e mapa do edital"
 type: "hub"
 status: "ativo"
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 # Transpetro 2026 — Comunicação Social: Jornalismo
@@ -16,7 +16,7 @@ Guia de estudo organizado pelo **Anexo IV do Edital nº 04 — TRANSPETRO/PSP/TE
 
 **Fonte oficial:** [edital consolidado e retificações — Transpetro](https://transpetro.com.br/lumis/portal/file/fileDownload.jsp?fileId=4028908C9E22CAA601A1D66CCFC97F95). O PDF consultado apresenta retificações até 10 de novembro de 2026. Conferir comunicados posteriores na página oficial da [Fundação Cesgranrio](https://transpetro.cesgranrio.org.br/).
 
-**Prática adicional:** [[3 - Materias/Comunicacao/136 - simulado teorias da comunicacao aplicadas e comparadas|Simulado inédito de Teorias da Comunicação — 16 questões aplicadas]] e [[3 - Materias/Comunicacao/35 - agenda setting saliencia mediatica e agenda publica|nota aprofundada + 15 questões de agenda-setting, priming, framing e agendas]]. Complemento específico: [[3 - Materias/Comunicacao/140 - simulado efeitos recepcao opiniao publica|simulado de efeitos, recepção, opinião pública e metodologia de sondagens (15 questões)]].
+**Prática adicional:** [[3 - Materias/Comunicacao/136 - simulado teorias da comunicacao aplicadas e comparadas|Simulado inédito de Teorias da Comunicação — 16 questões]], [[3 - Materias/Comunicacao/35 - agenda setting saliencia mediatica e agenda publica|nota aprofundada + 15 questões de agenda-setting, priming, framing e agendas]], [[3 - Materias/Comunicacao/140 - simulado efeitos recepcao opiniao publica|simulado de efeitos, recepção, opinião pública e metodologia de sondagens (15 questões)]] e [[3 - Materias/Comunicacao/141 - simulado teoria critica estudos culturais e contemporaneidade|simulado #141 — teoria crítica, Estudos Culturais e contemporaneidade (20 questões)]].
 
 ## Estrutura da prova
 
@@ -57,6 +57,7 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 - [[3 - Materias/Comunicacao/45 - plataformizacao infraestrutura governanca dados e economia|Plataformização]]
 - [[3 - Materias/Comunicacao/46 - integridade da informacao ecossistema governanca e direitos|Integridade da informação]]
 - [[3 - Materias/Comunicacao/47 - comparacao de teorias da comunicacao perguntas unidades e efeitos|Comparação das teorias]]
+- [[3 - Materias/Comunicacao/141 - simulado teoria critica estudos culturais e contemporaneidade|Simulado comparativo avançado — teoria crítica, Estudos Culturais, McLuhan, midiatização e plataformização (20 questões)]]
 
 **Distinções que precisam estar claras:** agenda-setting (saliência dos temas) × framing (enquadramento); gatekeeping (seleção) × agenda-setting (relação entre agendas); transmissão técnica × produção social de sentido; audiência passiva em modelos antigos × atividade da recepção; comunicação integrada (articulação estratégica) × multimídia (combinação de linguagens).
 
@@ -144,23 +145,30 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 - [[3 - Materias/Comunicacao/135 - simulado integrado jornalismo energia crise e comunicacao publica|Simulado integrado: jornalismo, energia, crise e comunicação pública (18 questões)]] — pratique verificação de imagens, fontes, comunicação de crise, contraditório, LGPD, infografia, greenwashing e correção.
 - [[3 - Materias/Comunicacao/137 - simulado etica responsabilidade e direitos jornalisticos|Simulado aplicado — ética, responsabilidade e direitos jornalísticos (15 questões)]] — treine sigilo da fonte, independência, conflito de interesses, presunção de inocência, correção, contraditório e privacidade.
 
-## Reta final sugerida (19 a 28 de novembro)
+## Reta final sugerida (19 de novembro a 06 de dezembro)
 
-| Data | Bloco | Entrega de estudo |
+| Data | Prioridade | Material/prática |
 |---|---|---|
-| 19/11 | Fundamentos | Modelos, processo, teorias de massa; diagnóstico de questões |
-| 20/11 | Fundamentos | Teoria crítica, Estudos Culturais, opinião pública e teorias contemporâneas |
-| 21/11 | Comunicação Pública | Conceitos, tipos, instrumentos, cidadania e políticas de comunicação |
-| 22/11 | Comunicação Pública | LAI, LGPD, transparência, dados abertos, redes sociais e ética |
-| 23/11 | Planejamento | Etapas, plano, públicos, meios, veículos e avaliação |
-| 24/11 | Conteúdo noticioso | Pauta, fontes, apuração, entrevista e reportagem |
-| 25/11 | Conteúdo noticioso | Estrutura, linguagem, noticiabilidade, gêneros, verificação e ética |
-| 26/11 | Conteúdo noticioso | Multimeios, audiovisual, opinião/informação e desinformação |
-| 27/11 | Assessoria | Produtos, relacionamento, veículos, digitais, usabilidade e infografia |
-| 28/11 | Sustentabilidade | RSC, ODS, gestão ambiental, indicadores, circularidade, relatório e simulado |
+| 19/11 | Fundamentos | Modelos, processo e teorias de massa; simulado 136 |
+| 20/11 | Efeitos e opinião | Agenda-setting, priming, framing, recepção e sondagens; simulado 140 |
+| 21/11 | Teoria crítica e contemporaneidade | Frankfurt, Estudos Culturais, Williams, McLuhan, midiatização, plataformas; simulado 141 |
+| 22/11 | Comunicação pública | Interesse público, cidadania, tipos e instrumentos |
+| 23/11 | LAI | Transparência ativa/passiva, pedidos, recursos, classificação e dados abertos |
+| 24/11 | LGPD e ética | Bases, direitos, minimização, privacidade, ética e redes oficiais |
+| 25/11 | Produção noticiosa I | Pauta, recorte, fontes, verificação, triangulação e contraditório |
+| 26/11 | Produção noticiosa II | Entrevista, reportagem, lide, títulos, edição, gêneros e dados |
+| 27/11 | Assessoria | Release, press kit, coletiva, exclusiva, relacionamento e mensuração |
+| 28/11 | Sustentabilidade I | RSC, ODS, gestão ambiental, materialidade, indicadores e circularidade |
+| 29/11 | Sustentabilidade II | ESG, relatos, certificações, greenwashing e simulado integrado |
+| 30/11 | Planejamento | Diagnóstico, objetivos, públicos, estratégia, canais, indicadores e comunicação integrada |
+| 01/12 | Revisão dirigida | Erros, conceitos de alta incidência e 25 questões específicas |
+| 02/12 | Simulado completo | 70 questões em 4h30 (50 específicos + 10 Português + 10 Inglês) |
+| 03/12 | Correção | Classificar erros, reestudar lacunas e refazer questões |
+| 04/12 | Revisão de alta retenção | 30 questões, quadro de confusões e flashcards |
+| 05/12 | Véspera | 60–90 min leves, logística e descanso |
+| 06/12 | Prova | Aplicar estratégia de tempo e conferir cartão-resposta |
 
-O cronograma é uma proposta de cobertura; ajuste a carga diária à disponibilidade, mas não deixe de reservar o dia 28 para revisão e questões.
-
+O plano detalhado de blocos, revisão e prioridades está em [[1 - Planejamento/Transpetro 2026 - Plano de reta final 19 nov a 5 dez|Plano de reta final]]. O cronograma é uma proposta; material editorial entregue não equivale a estudo realizado nem a desempenho registrado.
 ## Flashcards de revisão
 
 | Pergunta | Resposta |
