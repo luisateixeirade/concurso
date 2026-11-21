@@ -158,10 +158,10 @@ A distribuição de questões **entre os seis blocos específicos não foi divul
 | 25/11 | Produção noticiosa I | Pauta, recorte, fontes, verificação, triangulação e contraditório |
 | 26/11 | Produção noticiosa II | Entrevista, reportagem, lide, títulos, edição, gêneros e dados |
 | 27/11 | Assessoria | Release, press kit, coletiva, exclusiva, relacionamento e mensuração |
-| 28/11 | Digital | Planejamento digital, UX, arquitetura, acessibilidade e infografia |
-| 29/11 | Sustentabilidade I | RSC, ODS, gestão ambiental, materialidade, indicadores e circularidade |
-| 30/11 | Sustentabilidade II | ESG, relatos, certificações, greenwashing e simulado integrado |
-| 01/12 | Planejamento | Diagnóstico, objetivos, públicos, estratégia, canais, indicadores e comunicação integrada |
+| 28/11 | Sustentabilidade I | RSC, ODS, gestão ambiental, materialidade, indicadores e circularidade |
+| 29/11 | Sustentabilidade II | ESG, relatos, certificações, greenwashing e simulado integrado |
+| 30/11 | Planejamento | Diagnóstico, objetivos, públicos, estratégia, canais, indicadores e comunicação integrada |
+| 01/12 | Revisão dirigida | Erros, conceitos de alta incidência e 25 questões específicas |
 | 02/12 | Simulado completo | 70 questões em 4h30 (50 específicos + 10 Português + 10 Inglês) |
 | 03/12 | Correção | Classificar erros, reestudar lacunas e refazer questões |
 | 04/12 | Revisão de alta retenção | 30 questões, quadro de confusões e flashcards |
